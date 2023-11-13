@@ -87,6 +87,7 @@ body {
 .first-section-button:hover,
 .first-section-button:focus {
   color: #404bbf;
+  background-color: #404bbf;
 }
 
 /* SECOND SECTION */
