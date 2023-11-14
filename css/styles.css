@@ -152,8 +152,13 @@ body {
   letter-spacing: 0.02em;
 }
 
+/* FOOTER */
 footer {
   background: #2e2f42;
+}
+
+.studio-logo {
+  color: #f4f4fd;
 }
 
 .paragraph-footer {
