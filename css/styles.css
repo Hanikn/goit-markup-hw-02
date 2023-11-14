@@ -121,6 +121,14 @@ body {
   letter-spacing: 0.02em;
 }
 
+.third-section-subtitle {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
 .team-list-item {
   text-align: center;
   background-color: #ffffff;
